@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "boxmod:block/zircon_block"}
+  }
+}

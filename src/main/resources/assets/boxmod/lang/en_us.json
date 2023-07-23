@@ -2,5 +2,9 @@
   "item.boxmod.zircon": "Zircon",
   "item.boxmod.raw_zircon": "Raw Zircon",
 
+  "block.boxmod.zircon_block": "Block of Zircon",
+  "block.boxmod.zircon_ore": "Zircone Ore",
+  "block.boxmod.deepslate_zircon_block": "Deepslate Zircon Ore",
+
   "itemGroup.tutorialtab": "Zircon Tutorial Tab"
 }
